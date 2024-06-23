@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Flavormatch</string>
+    <string name="server_client_id">289440594210-0fe7lr3aoi55eg2l2u7ugkdsq8ck83he.apps.googleusercontent.com</string>
+    <string name="ingredient_instructions">Coloque el ingrediente adentro del recuadro</string>
+    <string name="capture_ingredient">Capturar ingrediente</string>
+</resources>
